@@ -1,0 +1,7 @@
+__pycache__
+myenv
+model.py
+train_accuracy.circ
+train_losses.circ
+val_accuracy.circ
+val_losses.circ
